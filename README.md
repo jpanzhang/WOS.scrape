@@ -13,4 +13,4 @@ _______________________________________________________________________________
  - Phenotypic, transcriptomic, and genomic analyses reveal the spatial-temporal patterns and associated genes of coarse hair density in goats
  - Journal: Zoological Research, 2025, Accept.
  - Authors: Jipan Zhang, Min Xiao, Jiabei Fang, Deli Huang, Yongju Zhao
-———————————————————————————————————————————————————————————————————————————————
+
